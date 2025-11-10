@@ -3,7 +3,7 @@
 
 ## Update Log
 - **2025-11-10**: Initial commits.
-  - 1.Core code for the PAMCs-MP model (Pre-traIn,Fine tuning).
+  - 1.Core code for the PAMCs-MP model (Pre-traIn,Fine-tuning).
   - 2.Machine learning and grid-search code, including implementations for SVR, Random Forest (RF), Gradient Boosting (GB), and BPNN.
   - 3.Code for calculating Orowan strengthening and thermal mismatch strengthening, provided in the `Cal_CTE` file.
 
